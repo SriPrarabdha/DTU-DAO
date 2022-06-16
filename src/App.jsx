@@ -184,8 +184,8 @@ const App = () => {
   if (hasClaimedNFT) {
     return (
       <div className="member-page">
-        <img src=".../scripts/assets/DTU.jpg" />
-        <h1>DTU DAO Member Page</h1>
+        <img src="../scripts/assets/DTU.jpg" />
+        <h1>Twitter DAO Member Page</h1>
         <p>Congratulations on being a member</p>
         <div>
           <div>
